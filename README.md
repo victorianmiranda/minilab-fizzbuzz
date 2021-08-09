@@ -2,7 +2,7 @@
 
 # MINILAB | Fizz Buzz
 
-O Fizz Buzz é um teste clássico de ciência da computação e serve para verificar o raciocínio lógico e o uso de loops e condicionais. Suas regras sao simples:
+O Fizz Buzz é um teste clássico de ciência da computação e serve para verificar o raciocínio lógico e o uso de loops e condicionais. Suas regras sāo simples:
 
 ## Requerimentos
 
