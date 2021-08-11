@@ -1,6 +1,10 @@
 // Seu código aqui!
 
-for (let i = 1; i < 100; i++) {
+let count = 1;
+
+while (count <= 100) {
   if (i % 3 === 0) {
   }
+
+  count++;
 }
